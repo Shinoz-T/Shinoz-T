@@ -1,6 +1,4 @@
 
-Data Science Enthusiast | Python & SQL Developer
-
 👋 Hi there! 
 I'm Shinoz, a passionate Data Science student skilled in Python and SQL. I’m diving into data analysis, machine learning, and visualization, turning raw data into actionable insights.
 
